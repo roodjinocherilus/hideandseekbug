@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Multi Post Story",
+        "projectClient": "Canopy",
+        "projectInfo": ["Front End Dev", 2022],
+        "image": "/images/portfolio1.png",
+        "technologies": ["html", "css", "javaScript"],
+        "mainText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ex nulla, convallis vel purus at, aliquet eleifend risus. Nulla maximus dolor mattis, posuere lacus sit amet, facilisis lacus. Duis maximus.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ex nulla, convallis vel purus at, aliquet eleifend risus. Nulla maximus dolor mattis, posuere lacus sit amet, facilisis lacus. Duis maximus.",
+        "liveVersionLink": ["See Live", "www.google.com"],
+        "linkToSource": ["See Source", "www.google.com"]
+    },
+    {
+        "id": 2,
+        "name": "Avocado",
+        "projectClient": "Canopy",
+        "projectInfo": ["Back End Dev", 2015],
+        "image": "/images/portfolio2.png",
+        "technologies": ["html", "css", "javaScript"],
+        "mainText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ex nulla, convallis vel purus at, aliquet eleifend risus. Nulla maximus dolor mattis, posuere lacus sit amet, facilisis lacus. Duis maximus.",
+        "liveVersionLink": ["See Live", "www.google.com"],
+        "linkToSource": ["See Source", "www.google.com"]
+    },
+    {   
+        "id": 3,
+        "name": "Gym Fit",
+        "projectClient": "Canopy",
+        "projectInfo": ["Back End Dev", 2015],
+        "image": "/images/portfolio3.png",
+        "technologies": ["html", "css", "javaScript"],
+        "mainText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ex nulla, convallis vel purus at, aliquet eleifend risus. Nulla maximus dolor mattis, posuere lacus sit amet, facilisis lacus. Duis maximus.",
+        "liveVersionLink": ["See Live", "www.google.com"],
+        "linkToSource": ["See Source", "www.google.com"]
+    },
+    {
+        "id": 4,
+        "name": "Professional Art",
+        "projectClient": "Canopy",
+        "projectInfo": ["Back End Dev", 2015],
+        "image": "/images/portfolio4.png",
+        "technologies": ["html", "css", "javaScript"],
+        "mainText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ex nulla, convallis vel purus at, aliquet eleifend risus. Nulla maximus dolor mattis, posuere lacus sit amet, facilisis lacus. Duis maximus.",
+        "liveVersionLink": ["See Live", "www.google.com"],
+        "linkToSource": ["See Source", "www.google.com"]
+    }
+]
+
